@@ -1,0 +1,6 @@
+SELECT 1 FROM dual;
+BEGIN
+  NULL;
+END;
+/
+
