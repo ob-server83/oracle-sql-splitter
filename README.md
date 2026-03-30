@@ -77,8 +77,8 @@ See `RELEASE.md` for the full release checklist.
 
 Quick summary:
 
-1. Create a project on GitHub.
-2. Replace the placeholder URLs and author in `pyproject.toml`.
-3. Build and validate distributions.
-4. Upload to TestPyPI first or configure trusted publishing.
-5. Publish to PyPI.
+1. Confirm the package name `oracle-sql-splitter` is still available on PyPI, or rename it before the first release.
+2. Bump `version` in `pyproject.toml`.
+3. Build and validate distributions locally.
+4. Publish to TestPyPI first if you want a dry run.
+5. Publish to PyPI either manually with `twine` or by creating a GitHub release after configuring trusted publishing.
