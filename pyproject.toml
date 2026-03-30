@@ -10,10 +10,10 @@ readme = "README.md"
 requires-python = ">=3.9"
 license = "MIT"
 authors = [
-  { name = "Roman", email = "l_roma83@hotmail.com" }
+  { name = "Roman" }
 ]
 maintainers = [
-  { name = "Roman", email = "l_roma83@hotmail.com"  }
+  { name = "Roman" }
 ]
 keywords = ["oracle", "sql", "plsql", "splitter", "parser"]
 classifiers = [
